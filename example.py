@@ -39,4 +39,5 @@ x = 20
 y = 10
 print(x > y)
 
-# less than or equal to operator
+# less than or equal to operatorclear
+
